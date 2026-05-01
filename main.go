@@ -1,5 +1,6 @@
 package main
 
+//  привет
 import (
 	"fmt"
 )
